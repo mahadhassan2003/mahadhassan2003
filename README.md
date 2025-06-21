@@ -47,14 +47,6 @@
 
 ---
 
-## 🧬 Skill Matrix: Proficiency Uplink
-<div style="font-family: 'Orbitron', sans-serif; line-height: 1.8; color: #E0E0E0; background: linear-gradient(180deg, #0A0E1A, #1A2338); padding: 20px; border-radius: 10px; box-shadow: 0 0 20px rgba(0, 255, 255, 0.3);">
-  <p>🔋 Quantifying expertise across AI, Data Science, and web development protocols.</p>
-  <!-- Skill stats from above -->
-</div>
-
----
-
 ## 🤝 Let's Connect!
 - **LinkedIn**: [linkedin.com/in/mahad-hassan-2b6a13319](https://www.linkedin.com/in/mahad-hassan-2b6a13319/)
 - **Email**: mahadhassan095@gmail.com
