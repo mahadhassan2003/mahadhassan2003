@@ -40,10 +40,11 @@
 ---
 
 ## 📊 GitHub Stats
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <!-- Other toolkit badges -->
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="48%" />
+</p>
+
+---
 
 ## 🧬 Skill Matrix: Proficiency Uplink
 <div style="font-family: 'Orbitron', sans-serif; line-height: 1.8; color: #E0E0E0; background: linear-gradient(180deg, #0A0E1A, #1A2338); padding: 20px; border-radius: 10px; box-shadow: 0 0 20px rgba(0, 255, 255, 0.3);">
