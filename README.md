@@ -40,7 +40,7 @@
 
 ### 📫 Connect With Me
 
-- 🔗 [LinkedIn](linkedin.com/in/mahad-hassan-2b6a13319)  
+- 🔗 [LinkedIn]([linkedin.com/in/mahad-hassan-2b6a13319](https://www.linkedin.com/in/mahad-hassan-2b6a13319/))  
 - 📨 Email: mahadhassan095@gmail.com  
 - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
 
