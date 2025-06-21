@@ -4,7 +4,6 @@
 
 ## 🌟 About Me
 <div style="font-family: Arial, sans-serif; line-height: 1.6;">
-  <h1>👋 Hi there! I'm <span style="color: #2e86de;">Mahad Hassan</span></h1>
   
   <p>🎓 I'm a <strong>BS Artificial Intelligence</strong> student at <strong>SZABIST Islamabad</strong> with a strong passion for AI, Data Science, and building intelligent systems.</p>
   
