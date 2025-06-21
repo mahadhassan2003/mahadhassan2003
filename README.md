@@ -6,10 +6,8 @@
 ### 👨‍💻 About Me
 
 - 🎓 BS in Artificial Intelligence student at **SZABIST Islamabad**
-- 💼 Intern at **Arch Technology** – Working on real-world **Machine Learning** & **Data Science** projects
 - 🧠 Currently learning: **LangChain**, **Flask**, **MongoDB**, **Streamlit**, and **LLMs**
 - 💡 Passionate about building AI tools, automating workflows, and solving real-world problems through technology
-- 🥇 Awarded **Prime Minister’s Laptop** for academic excellence
 
 ---
 
