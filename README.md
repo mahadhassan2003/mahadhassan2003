@@ -40,9 +40,10 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="48%" />
-</p>
+## 📈 Holographic Metrics
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahad-hassan&show_icons=true&theme=transparent&bg_color=0A0E1A&text_color=00FFFF&icon_color=FF00FF&border_color=00FFFF" alt="GitHub Stats">
+</div>
 
 ---
 
