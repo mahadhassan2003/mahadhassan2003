@@ -40,8 +40,8 @@
 
 ### 📫 Connect With Me
 
-- 🔗 [LinkedIn](https://linkedin.com/in/your-link)  
-- 📨 Email: your.email@example.com  
+- 🔗 [LinkedIn](linkedin.com/in/mahad-hassan-2b6a13319)  
+- 📨 Email: mahadhassan095@gmail.com  
 - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
 
 ---
