@@ -1,6 +1,6 @@
 # Hi, I'm Mahad Hassan 👋
 
-I'm a passionate [Your Profession, e.g., AI Engineer | Data Scientist ] with a knack for building innovative solutions and tackling complex challenges. I thrive on creating clean, efficient, and impactful code that drives real-world results.
+## Artificial Intelligence & Data Science Professional
 
 ## 🌟 About Me
 <div style="font-family: Arial, sans-serif; line-height: 1.6;">
