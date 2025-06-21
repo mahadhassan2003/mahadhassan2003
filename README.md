@@ -1,17 +1,18 @@
-<h1 align="center">Hi, I'm Mahad Hassan 👋</h1>
-<h3 align="center">🚀 Aspiring AI Engineer | Data Science Enthusiast | Python & Web Developer</h3>
+# Mahad Hassan
+
+## Artificial Intelligence & Data Science Professional
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎓 BS in Artificial Intelligence student at **SZABIST Islamabad**
-- 🧠 Currently learning: **LangChain**, **Flask**, **MongoDB**, **Streamlit**, and **LLMs**
-- 💡 Passionate about building AI tools, automating workflows, and solving real-world problems through technology
+- **Education**: Pursuing a Bachelor of Science in Artificial Intelligence at SZABIST Islamabad
+- **Current Focus**: Advancing expertise in LangChain, Flask, MongoDB, Streamlit, and Large Language Models (LLMs)
+- **Mission**: Dedicated to developing innovative AI solutions, streamlining workflows, and addressing real-world challenges through advanced technology
 
 ---
 
-### 🔧 Tech Stack & Tools
+### Technical Proficiencies
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
@@ -27,7 +28,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="48%" />
@@ -36,16 +37,16 @@
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
-- 🔗 [LinkedIn]([linkedin.com/in/mahad-hassan-2b6a13319](https://www.linkedin.com/in/mahad-hassan-2b6a13319/))  
-- 📨 Email: mahadhassan095@gmail.com  
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- **LinkedIn**: [linkedin.com/in/mahad-hassan-2b6a13319](https://www.linkedin.com/in/mahad-hassan-2b6a13319/)
+- **Email**: mahadhassan095@gmail.com
+- **Portfolio**: [your-portfolio.com](https://your-portfolio.com)
 
 ---
 
-### 🧠 Fun Fact
+### Professional Philosophy
 
-> "I believe AI is not just the future — it's already shaping the present. I'm here to be part of that transformation."
+> Committed to leveraging artificial intelligence to drive meaningful innovation and transform industries.
 
 ---
