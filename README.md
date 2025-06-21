@@ -1,12 +1,25 @@
 # Hi, I'm Mahad Hassan 👋
 
-I'm a passionate [Your Profession, e.g., Software Engineer | Data Scientist | Full-Stack Developer] with a knack for building innovative solutions and tackling complex challenges. I thrive on creating clean, efficient, and impactful code that drives real-world results.
+I'm a passionate [Your Profession, e.g., AI Engineer | Data Scientist ] with a knack for building innovative solutions and tackling complex challenges. I thrive on creating clean, efficient, and impactful code that drives real-world results.
 
 ## 🌟 About Me
-- 🔧 **Currently working on**: [Briefly describe your current project or focus, e.g., "building scalable web apps with React and Node.js" or "exploring AI-driven data pipelines"].
-- 🌱 **Learning**: [Mention technologies or skills you're exploring, e.g., "Rust, GraphQL, or machine learning frameworks"].
-- 💡 **Passionate about**: [Your interests, e.g., "open-source contributions, DevOps, or creating user-centric applications"].
-- 📫 **Reach me**: [Your email or LinkedIn, e.g., "your.email@example.com" or "linkedin.com/in/yourprofile"].
+<div style="font-family: Arial, sans-serif; line-height: 1.6;">
+  <h1>👋 Hi there! I'm <span style="color: #2e86de;">Mahad Hassan</span></h1>
+  
+  <p>🎓 I'm a <strong>BS Artificial Intelligence</strong> student at <strong>SZABIST Islamabad</strong> with a strong passion for AI, Data Science, and building intelligent systems.</p>
+  
+  <p>💻 I enjoy working on <strong>real-world projects</strong> that combine machine learning, web development, and automation.</p>
+  
+  <p>🔬 Currently exploring tools like <strong>LangChain</strong>, <strong>Flask</strong>, <strong>Streamlit</strong>, and <strong>MongoDB</strong> to build smart, interactive applications.</p>
+  
+  <p>🚀 I'm also interning at <strong>Arch Technology</strong>, where I apply machine learning to solve practical problems.</p>
+  
+  <p>📚 I'm a continuous learner, always excited to explore the latest advancements in AI and open-source technologies.</p>
+  
+  <blockquote style="font-style: italic; color: #555; border-left: 4px solid #2e86de; padding-left: 12px;">
+    “My goal is to build meaningful tech that empowers people and improves lives.”
+  </blockquote>
+</div>
 
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -31,12 +44,11 @@ I'm a passionate [Your Profession, e.g., Software Engineer | Data Scientist | Fu
 
 
 ## 🤝 Let's Connect!
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-- [Portfolio](https://yourportfolio.com)
-- [Blog](https://yourblog.com)
+- **LinkedIn**: [linkedin.com/in/mahad-hassan-2b6a13319](https://www.linkedin.com/in/mahad-hassan-2b6a13319/)
+- **Email**: mahadhassan095@gmail.com
+- **Portfolio**: [your-portfolio.com](https://your-portfolio.com)
 
 Feel free to explore my repositories, star ⭐ projects you like, or reach out to collaborate on something exciting!
 
 ---
-*“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+> Committed to leveraging artificial intelligence to drive meaningful innovation and transform industries.
