@@ -40,9 +40,15 @@
 ---
 
 ## 📊 GitHub Stats
-## 📈 Holographic Metrics
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahad-hassan&show_icons=true&theme=transparent&bg_color=0A0E1A&text_color=00FFFF&icon_color=FF00FF&border_color=00FFFF" alt="GitHub Stats">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <!-- Other toolkit badges -->
+</div>
+
+## 🧬 Skill Matrix: Proficiency Uplink
+<div style="font-family: 'Orbitron', sans-serif; line-height: 1.8; color: #E0E0E0; background: linear-gradient(180deg, #0A0E1A, #1A2338); padding: 20px; border-radius: 10px; box-shadow: 0 0 20px rgba(0, 255, 255, 0.3);">
+  <p>🔋 Quantifying expertise across AI, Data Science, and web development protocols.</p>
+  <!-- Skill stats from above -->
 </div>
 
 ---
