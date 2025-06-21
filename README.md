@@ -2,6 +2,8 @@
 
 ## Artificial Intelligence & Data Science Professional
 
+---
+
 ## 🌟 About Me
 <div style="font-family: Arial, sans-serif; line-height: 1.6;">
   
@@ -20,6 +22,8 @@
   </blockquote>
 </div>
 
+---
+
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
@@ -33,9 +37,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 
-- **Languages**: [e.g., Python, C++]
-- **Frameworks**: [e.g.,Pandas, NumPy, Scikit-Learn, PyTorch, LangChain, RAG]
-- **Cloud**: [e.g., AWS, Azure, GCP]
+---
 
 ## 📊 GitHub Stats
 ## 📈 Holographic Metrics
@@ -43,6 +45,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mahad-hassan&show_icons=true&theme=transparent&bg_color=0A0E1A&text_color=00FFFF&icon_color=FF00FF&border_color=00FFFF" alt="GitHub Stats">
 </div>
 
+---
 
 ## 🤝 Let's Connect!
 - **LinkedIn**: [linkedin.com/in/mahad-hassan-2b6a13319](https://www.linkedin.com/in/mahad-hassan-2b6a13319/)
