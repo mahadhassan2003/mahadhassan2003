@@ -30,10 +30,12 @@
 
 ### GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" width="48%" />
-</p>
+### 📈 GitHub Stats  
+![Mahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahadhassan&show_icons=true&theme=tokyonight)
+
+### 💻 Top Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahadhassan&layout=donut&langs_count=8)
+
 
 ---
 
