@@ -18,18 +18,13 @@
 
 ## <img src="https://cdn.simpleicons.org/googlegemini/2E86C1" width="28" height="28" valign="middle"/> &nbsp;About Me
 
-```python
-mahad = {
-    "role":        "AI Engineer & LLM Specialist",
-    "university":  "SZABIST Islamabad — BSc Artificial Intelligence (2024–2028)",
-    "cgpa":        "3.70 / 4.00",
-    "experience":  ["128 Technologies", "TechnikNest", "Alphadigify"],
-    "focus":       ["RAG Systems", "LLM Agents", "NLP Pipelines", "Full-Stack AI"],
-    "currently":   "Building production-grade multi-tenant RAG & agentic AI systems",
-    "ask_me_about":["LangChain", "LlamaIndex", "FastAPI", "pgvector", "HuggingFace"],
-    "contact":     "mahadhassan095@gmail.com",
-}
-```
+I'm a **BSc Artificial Intelligence** student at **SZABIST Islamabad** with hands-on industry experience building production-grade AI systems across three internships.
+
+I specialise in **LLM applications, RAG pipelines, and agentic AI** — turning research-level ideas into deployed, real-world products. I care about clean architecture, measurable performance, and shipping things that actually work.
+
+- <img src="https://cdn.simpleicons.org/googlemaps/2E86C1" width="14" height="14" valign="middle"/> &nbsp; Based in **Islamabad, Pakistan**
+- <img src="https://cdn.simpleicons.org/techinasia/2E86C1" width="14" height="14" valign="middle"/> &nbsp; Currently building multi-tenant RAG & agentic AI systems
+- <img src="https://cdn.simpleicons.org/maildotru/2E86C1" width="14" height="14" valign="middle"/> &nbsp; Reach me at **mahadhassan095@gmail.com**
 
 ---
 
